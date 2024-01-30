@@ -11,8 +11,6 @@ path = "src/server.rs"
 name = "payment-client"
 path = "client/client.rs"
 
-
-
 [dependencies]
 tonic = "0.7.2"
 prost = "0.10.4"
